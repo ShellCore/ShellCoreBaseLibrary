@@ -1,6 +1,7 @@
 package com.shell.android.shellcorebaselibrary
 
-import android.widget.Toolbar
+import android.support.v7.widget.Toolbar
+
 
 interface CustomToolbar {
     fun loadToolbar(toolbar: Toolbar?)
